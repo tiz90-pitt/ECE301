@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/teef/ECE301/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/test_frequency.dir/test_frequency.cpp.o -c /home/teef/ECE301/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem08/test_frequency.cpp",
+  "file": "/home/teef/ECE301/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem08/test_frequency.cpp",
+  "output": "CMakeFiles/test_frequency.dir/test_frequency.cpp.o"
+},
+{
+  "directory": "/home/teef/ECE301/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/test_frequency.dir/Frequency.cpp.o -c /home/teef/ECE301/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem08/Frequency.cpp",
+  "file": "/home/teef/ECE301/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem08/Frequency.cpp",
+  "output": "CMakeFiles/test_frequency.dir/Frequency.cpp.o"
+}
+]
