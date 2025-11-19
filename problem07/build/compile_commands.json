@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/teef/ECE301/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem07/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/problem07-tests.dir/problem07_tests.cpp.o -c /home/teef/ECE301/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem07/problem07_tests.cpp",
+  "file": "/home/teef/ECE301/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem07/problem07_tests.cpp",
+  "output": "CMakeFiles/problem07-tests.dir/problem07_tests.cpp.o"
+},
+{
+  "directory": "/home/teef/ECE301/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem07/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/problem07-tests.dir/Database.cpp.o -c /home/teef/ECE301/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem07/Database.cpp",
+  "file": "/home/teef/ECE301/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem07/Database.cpp",
+  "output": "CMakeFiles/problem07-tests.dir/Database.cpp.o"
+}
+]

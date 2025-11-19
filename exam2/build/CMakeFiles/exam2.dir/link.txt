@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/exam2.dir/test_exam2.cpp.o CMakeFiles/exam2.dir/Exam2.cpp.o -o exam2 

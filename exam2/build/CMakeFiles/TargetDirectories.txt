@@ -1,0 +1,4 @@
+/home/teef/ECE301/exam2/build/CMakeFiles/exam2.dir
+/home/teef/ECE301/exam2/build/CMakeFiles/test.dir
+/home/teef/ECE301/exam2/build/CMakeFiles/edit_cache.dir
+/home/teef/ECE301/exam2/build/CMakeFiles/rebuild_cache.dir

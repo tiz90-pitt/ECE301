@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/teef/ECE301/exam2/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/exam2.dir/test_exam2.cpp.o -c /home/teef/ECE301/exam2/test_exam2.cpp",
+  "file": "/home/teef/ECE301/exam2/test_exam2.cpp",
+  "output": "CMakeFiles/exam2.dir/test_exam2.cpp.o"
+},
+{
+  "directory": "/home/teef/ECE301/exam2/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/exam2.dir/Exam2.cpp.o -c /home/teef/ECE301/exam2/Exam2.cpp",
+  "file": "/home/teef/ECE301/exam2/Exam2.cpp",
+  "output": "CMakeFiles/exam2.dir/Exam2.cpp.o"
+}
+]

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20251112-1511-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.28.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="teef-HP-ENVY-x360-Convertible"
+	OSRelease="6.8.0-87-generic"
+	OSVersion="#88-Ubuntu SMP PREEMPT_DYNAMIC Sat Oct 11 09:28:41 UTC 2025"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="78"
+	ProcessorCacheSize="4096"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="11815"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2100.01"
+	>
+	<Testing>
+		<StartDateTime>Nov 12 10:22 EST</StartDateTime>
+		<StartTestTime>1762960954</StartTestTime>
+		<TestList/>
+		<EndDateTime>Nov 12 10:22 EST</EndDateTime>
+		<EndTestTime>1762960954</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
