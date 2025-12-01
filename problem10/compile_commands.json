@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/build",
+  "command": "/usr/bin/clang++    -g   -std=gnu++11 -o CMakeFiles/test_network.dir/test_network.cpp.o -c /workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/test_network.cpp",
+  "file": "/workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/test_network.cpp"
+},
+{
+  "directory": "/workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/build",
+  "command": "/usr/bin/clang++    -g   -std=gnu++11 -o CMakeFiles/test_network.dir/Node.cpp.o -c /workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/Node.cpp",
+  "file": "/workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/Node.cpp"
+},
+{
+  "directory": "/workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/build",
+  "command": "/usr/bin/clang++    -g   -std=gnu++11 -o CMakeFiles/test_network.dir/Component.cpp.o -c /workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/Component.cpp",
+  "file": "/workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/Component.cpp"
+},
+{
+  "directory": "/workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/build",
+  "command": "/usr/bin/clang++    -g   -std=gnu++11 -o CMakeFiles/test_network.dir/Network.cpp.o -c /workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/Network.cpp",
+  "file": "/workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/Network.cpp"
+},
+{
+  "directory": "/workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/build",
+  "command": "/usr/bin/clang++    -g   -std=gnu++11 -o CMakeFiles/test_network.dir/VoltageSource.cpp.o -c /workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/VoltageSource.cpp",
+  "file": "/workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/VoltageSource.cpp"
+},
+{
+  "directory": "/workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/build",
+  "command": "/usr/bin/clang++    -g   -std=gnu++11 -o CMakeFiles/test_network.dir/CurrentSource.cpp.o -c /workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/CurrentSource.cpp",
+  "file": "/workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/CurrentSource.cpp"
+},
+{
+  "directory": "/workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/build",
+  "command": "/usr/bin/clang++    -g   -std=gnu++11 -o CMakeFiles/test_network.dir/Resistor.cpp.o -c /workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/Resistor.cpp",
+  "file": "/workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/Resistor.cpp"
+},
+{
+  "directory": "/workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/build",
+  "command": "/usr/bin/clang++    -g   -std=gnu++11 -o CMakeFiles/test_network.dir/VoltageDivider.cpp.o -c /workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/VoltageDivider.cpp",
+  "file": "/workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/VoltageDivider.cpp"
+},
+{
+  "directory": "/workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/build",
+  "command": "/usr/bin/clang++    -g   -std=gnu++11 -o CMakeFiles/test_network.dir/CurrentDivider.cpp.o -c /workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/CurrentDivider.cpp",
+  "file": "/workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/CurrentDivider.cpp"
+},
+{
+  "directory": "/workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/build",
+  "command": "/usr/bin/clang++    -g   -std=gnu++11 -o CMakeFiles/test_network.dir/PracticalVsCircuit.cpp.o -c /workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/PracticalVsCircuit.cpp",
+  "file": "/workspaces/ECE0301_ECE_Problem_Solving_with_Cplusplus/Problems/problem10/PracticalVsCircuit.cpp"
+}
+]
