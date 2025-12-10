@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/teef/ECE301/exam1/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/exam1.dir/exam1.cpp.o -c /home/teef/ECE301/exam1/exam1.cpp",
+  "file": "/home/teef/ECE301/exam1/exam1.cpp",
+  "output": "CMakeFiles/exam1.dir/exam1.cpp.o"
+}
+]
